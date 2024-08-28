@@ -13,8 +13,6 @@ Agile is flexible, encourages iterative development, and adapts to changes easil
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
-Methods include regular testing, code reviews, and continuous integration. Maintaining high standards reduces bugs and improves user satisfaction.
-
 Agile suits projects with evolving requirements, like app development. Waterfall works for fixed-scope projects, like infrastructure development.
 
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
